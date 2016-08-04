@@ -29,7 +29,7 @@ ALLOWED_HOSTS = []
 
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'rezapython@gmail.com'
-EMAIL_HOST_PASSWORD = 'reza1373'
+EMAIL_HOST_PASSWORD = 'R_E_Z_A1373'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
