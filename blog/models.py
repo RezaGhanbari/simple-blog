@@ -33,7 +33,7 @@ class Post(models.Model):
                                default='draft')
     objects = models.Manager()  # The default manager.
     published = PublishedManager()  # Our custom manager.
-    
+
     # We will use the get_absolute_url() method in
     # our templates.
     def get_absolute_url(self):
